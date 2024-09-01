@@ -129,6 +129,6 @@ switch (day) {
 
 //how to use turney operetor in js 
 let humanAge = 23;
-let status = (humanAge >= 18) ? 'i can vote' : 'i cant vote';
+let status1 = (humanAge >= 18) ? 'i can vote' : 'i cant vote';
 
-console.log(status)
+console.log(status1)
