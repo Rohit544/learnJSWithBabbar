@@ -122,9 +122,12 @@ switch (day) {
     case 7:
         console.log("Sunday");
         break;
-    default:
+    default:    
         console.log("Invalid day");
 }
 
 
+//how to use turney operetor in js 
+let status = (humanAge >= 18) ? 'i can vote' : 'i cant vote';
 
+console.log(status)
