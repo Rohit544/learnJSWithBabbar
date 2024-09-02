@@ -132,3 +132,7 @@ let humanAge = 23;
 let status1 = (humanAge >= 18) ? 'i can vote' : 'i cant vote';
 
 console.log(status1)
+
+console.log(6 & 7)
+console.log(4 | 2)
+
