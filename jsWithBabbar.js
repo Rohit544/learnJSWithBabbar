@@ -136,3 +136,17 @@ console.log(status1)
 console.log(6 & 7)
 console.log(4 | 2)
 
+//print the reverse counting in javascript
+let rev = 10;
+for(let i=rev;i>rev;i--){
+    console.log(rev);
+}
+
+
+// how to write a do while loop in ja 
+let newCount = 1;
+do {
+    console.log(newCount);
+    newCount++;
+} while (newCount <= 6);
+
